@@ -7,7 +7,7 @@ import React from 'react'
  * Função do componente, responsável por retornar o HTML para o elemento que solicitou.
 */
 function Titulo() {
-    // Retorno do HTML usa o formato JPX
+    // Retorno do HTML usa o formato JSX
     return <p>
                 Eu sou um componente!
             </p>
